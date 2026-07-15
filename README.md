@@ -1,6 +1,6 @@
 # Data-Science-Portfolio
 **Project Overview**
-This portfolio showcases a hypothesis-driven data science project investigating the factors that influence house sale likelihood. Using a Kaggle housing dataset and Logistic Regression, the project demonstrates end-to-end data science skills.
+This README portfolio showcases a hypothesis-driven data science project investigating the factors that influence house sale likelihood. Using a Kaggle housing dataset and Logistic Regression, the project demonstrates end-to-end data science skills.
  Skills Demonstrated: 
  - Data cleaning and Preperation
  - Exploratory Data Anlysis
