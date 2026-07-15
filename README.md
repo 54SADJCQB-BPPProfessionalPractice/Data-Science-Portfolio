@@ -17,3 +17,12 @@ Property sellers, analysts and property platforms often make decisions based on 
 The objective was to assess whether size and location-related property characteristics have greater influence on sale likelihood than room-count measures through the hypothesis:
 H1: Size and location-related variables, particularly Square_Footage and Neighborhood_Quality, will have a greater influence on the likelihood of a house being sold than room-count measures such as Num_Bedrooms.
 H0: Size and location-related variables, particularly Square_Footage and Neighborhood_Quality, will not have a greater influence on the likelihood of a house being sold than room-count measures such as Num_Bedrooms.
+
+---
+**Dataset Source**
+The dataset used in this project is the House Sales Dataset sourced from Kaggle. Each row represents an individual property and contains structural and location-related characteristics that may influence sale likelihood.
+**Target Variable**
+
+Will_Sell_Proxy
+ 1 = Sold
+ 0 = Not Sold
