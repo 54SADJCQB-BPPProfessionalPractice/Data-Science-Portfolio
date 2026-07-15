@@ -9,6 +9,11 @@ This README portfolio showcases a hypothesis-driven data science project investi
  - Model evaluation
  - Sensitivity analysis
 ---
+# Table of Contents
+
+---
+#Installation
+---
 **Business Problem:**
 Property sellers, analysts and property platforms often make decisions based on assumptions about what drives a successful sale. However, it is not always clear which property characteristics have the greatest influence on whether a property will sell.23 24This project investigates which structural and location-related features are most strongly associated with house sale likelihood. Using Logistic Regression, the analysis tests whether property size and neighbourhood quality have greater influence on sale outcomes than room-count measures, providing a more evidence-based understanding of housing market behaviour. 
 
