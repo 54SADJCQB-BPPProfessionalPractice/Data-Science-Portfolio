@@ -21,6 +21,8 @@ H0: Size and location-related variables, particularly Square_Footage and Neighbo
 ---
 **Dataset Source**
 The dataset used in this project is the House Sales Dataset sourced from Kaggle. Each row represents an individual property and contains structural and location-related characteristics that may influence sale likelihood.
+
+---
 **Target Variable**
 Will_Sell_Proxy
  1 = Sold
