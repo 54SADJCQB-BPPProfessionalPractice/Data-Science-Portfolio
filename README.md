@@ -19,23 +19,14 @@ So far, my work has focused on developing practical skills in data engineering, 
 - JIRA, Confluence, GitHub
 
 ### Current focus 💬
-- Classification on an industry-style dataset  
-- Regression modelling on a housing dataset  
+- Classification on an industry-style dataset (Private Dataset)
+- Logistic Regression modelling on a housing dataset  (Public Dataset)
 
-These projects are available in my repositories if you’d like to explore them further✨
+The public Dataset within my Data Science Project is available below if you would like to explore✨
 <!--
 **54SADJCQB-BPPProfessionalPractice/54SADJCQB-BPPProfessionalPractice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 # Data-Science-Portfolio
