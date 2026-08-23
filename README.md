@@ -19,10 +19,12 @@ So far, my work has focused on developing practical skills in data engineering, 
 - JIRA, Confluence, GitHub
 
 ### Current focus 💬
-- Classification on an industry-style dataset (Private Dataset)
+- Classification on an industry-style dataset (Private Dataset) - this cannot be shared due to containing sensitive Data
 - Logistic Regression modelling on a housing dataset  (Public Dataset)
 
 The public Dataset within my Data Science Project is available below if you would like to explore, details of it are below✨
+---
+[Click Here to View the Data Science Project](https://github.com/54SADJCQB-BPPProfessionalPractice/Data-Science-Portfolio/blob/main/Data%20Science%20Project%20(PUBLIC%20DATASET).ipynb)
 
 
 # Data-Science-Portfolio
@@ -59,6 +61,14 @@ Will_Sell_Proxy:
  1 = Sold
  0 = Not Sold
 
+**Key Results**
+Test Accuracy: 91%
+F1-Score: 91%
+ROC-AUC 1.00
+
+---
+---
+**Conclusion:** H1 was partially supported. Square footage ad a substantially greater predictive influence than bedroom count, supporting the size element of the hypothesis. Neighbourhood quality however contributed little power, so the location-quality element was not supported
 
 <!--
 **54SADJCQB-BPPProfessionalPractice/54SADJCQB-BPPProfessionalPractice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
