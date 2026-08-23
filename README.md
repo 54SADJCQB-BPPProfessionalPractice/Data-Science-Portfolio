@@ -36,9 +36,6 @@ This README portfolio showcases a hypothesis-driven data science project investi
  - Model evaluation
  - Sensitivity analysis
 ---
-# Table of Contents
-khk
----
 #Project Context
 ---
 **Business Problem:**
