@@ -66,7 +66,7 @@ Test Accuracy: 91%
 F1-Score: 91%
 ROC-AUC 1.00
 
----
+
 ---
 **Conclusion:** H1 was partially supported. Square footage ad a substantially greater predictive influence than bedroom count, supporting the size element of the hypothesis. Neighbourhood quality however contributed little power, so the location-quality element was not supported
 
