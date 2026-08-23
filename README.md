@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I'm a Data Science student at BPP with an interest in applying data skills to real-world and public datasets.
+I'm a Data Science student at BPP (54SADJCQB) with an interest in applying data skills to real-world and public datasets.
 
 So far, my work has focused on developing practical skills in data engineering, analytics, and visualisation through academic projects and hands-on experience with industry-style data.
 
