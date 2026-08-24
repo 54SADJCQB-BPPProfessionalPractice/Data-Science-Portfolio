@@ -24,7 +24,7 @@ So far, my work has focused on developing practical skills in data engineering, 
 
 The public Dataset within my Data Science Project is available below if you would like to explore, details of it are below✨
 ---
-[Click Here to View the Data Science Project](https://github.com/54SADJCQB-BPPProfessionalPractice/Data-Science-Portfolio/blob/main/Data%20Science%20Project%20(PUBLIC%20DATASET).ipynb)
+[Click Here to View the Data Science Project]([https://github.com/54SADJCQB-BPPProfessionalPractice/Data-Science-Portfolio/blob/main/Data%20Science%20Project%20(PUBLIC%20DATASET).ipynb](https://github.com/54SADJCQB-BPPProfessionalPractice/Data-Science-Portfolio/blob/main/Data%20Science%20Project%20(PUBLIC%20DATASET).ipynb))
 
 
 # Data-Science-Portfolio
