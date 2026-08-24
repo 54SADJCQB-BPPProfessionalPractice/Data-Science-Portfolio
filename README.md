@@ -77,6 +77,8 @@ ROC-AUC 1.00
 **Project Overview**
 
 Insurance claim volumes fluctuate throughout the year, creating challenges for workforce and resource planning. This project investigated whether historical claims data could identify seasonal trends and accurately forecast future demand to support operational decision-making.
+
+
 ---
 Project Context
 ---
@@ -90,7 +92,9 @@ H₁: Historical claims data contains significant seasonal patterns and can be u
 
 ---
 **Dataset Source:**
+
 A public Kaggle insurance claims dataset containing 90,001 records (2021–2026) was used due to the confidentiality of Beazley claims data. The dataset was cleaned, duplicates removed, and claim dates aggregated into monthly claim volumes for analysis.
+
 ---
 **Target Variable**
 Monthly insurance claims demand, measured through aggregated monthly claim volumes to identify seasonal patterns and generate forecasts. 
