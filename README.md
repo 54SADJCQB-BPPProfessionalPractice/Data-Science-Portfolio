@@ -25,6 +25,7 @@ So far, my work has focused on developing practical skills in data engineering, 
 The public Dataset within my Data Science Project is available below if you would like to explore, details of it are below✨
 ---
 [Click Here to view my Logistic Regression Model - Data Science Project](https://github.com/54SADJCQB-BPPProfessionalPractice/Data-Science-Portfolio/blob/main/Data%20Science%20Project%20(PUBLIC%20DATASET).ipynb)
+[Click here to view my Time Series Analysis - Impact Project](https://github.com/54SADJCQB-BPPProfessionalPractice/Data-Science-Portfolio/blob/main/Time%20Series%20Analysis.ipynb)
 
 
 # Data-Science-Portfolio
